@@ -374,7 +374,7 @@
 #define USE_ADC_VCC                              // Display Vcc in Power status. Disable for use as Analog input on selected devices
 #undef USE_DS18x20                               // Disable DS18x20 sensor
 
-#undef USE_ENERGY_SENSOR                         // Disable energy sensors (-14k code)
+// #undef USE_ENERGY_SENSOR                         // Disable energy sensors (-14k code)
   #undef USE_PZEM004T                            // Disable PZEM004T energy sensor
   #undef USE_PZEM_AC                             // Disable PZEM014,016 Energy monitor
   #undef USE_PZEM_DC                             // Disable PZEM003,017 Energy monitor
